@@ -26,3 +26,6 @@ Repositorio de la Aplicación de Recetas Medicinales utilizando Plantas
 
  ## Enlace a Google Drive
  https://drive.google.com/drive/folders/1T_DM0F2gE8PpwXt1vSKTLhhfiGl_tqj7?usp=sharing
+
+ ## Enlace a Presentación en Canvas
+ https://www.canva.com/design/DAFlNPAIOpg/yquxPwa1T0xg96zC6tNQkw/edit?utm_content=DAFlNPAIOpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
