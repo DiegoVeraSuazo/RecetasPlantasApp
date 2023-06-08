@@ -1,5 +1,6 @@
-# RecetasPlantasApp
+# RecetasPlantasApp . FloraTeupica
 Repositorio de la Aplicación de Recetas Medicinales utilizando Plantas
+![Logo FloraPeutica](LogoApp.png)
 
 ## Integrantes:
 
