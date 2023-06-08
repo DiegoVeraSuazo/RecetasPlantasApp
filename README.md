@@ -5,7 +5,7 @@ Repositorio de la Aplicación de Recetas Medicinales utilizando Plantas
 ## Integrantes:
 
 1. Matias Alberto Arias Luengo - Diseñador de Wireframe
-2. Felipe Ignacio Zanzana de la Vega - Experto en Figma 
+2. Felipe Ignacio Sanzana de la Vega - Experto en Figma 
 3. Gabriel Isaac Ruiz Manquimilla - Diseñador de Interfaz 
 4. Diego Alejandro Vera Suazo - Experto en Figma
 
