@@ -4,10 +4,10 @@ Repositorio de la Aplicación de Recetas Medicinales utilizando Plantas
 
 ## Integrantes:
 
-1. Matias Alberto Arias Luengo
-2. Felipe Ignacio Zanzana de la Vega
-3. Gabriel Isaac Ruiz Manquimilla 
-4. Diego Alejandro Vera Suazo
+1. Matias Alberto Arias Luengo - Diseñador de Wireframe
+2. Felipe Ignacio Zanzana de la Vega - Experto en Figma 
+3. Gabriel Isaac Ruiz Manquimilla - Diseñador de Interfaz 
+4. Diego Alejandro Vera Suazo - Experto en Figma
 
 ---
 
@@ -23,3 +23,6 @@ Repositorio de la Aplicación de Recetas Medicinales utilizando Plantas
  La aplicación permitirá al usuario identificar las propiedades medicinales de plantas, entregando recetas para la creación de ungüentos curativos, brebajes y purificadores de ambiente.
  - Es trabajo del equipo decidir si harán el diseño de sus interfaces para móvil o escritorio. 
  - Cada equipo debe escoger el nombre representativo de su app/sitio.
+
+ ## Enlace a Google Drive
+ https://drive.google.com/drive/folders/1T_DM0F2gE8PpwXt1vSKTLhhfiGl_tqj7?usp=sharing
