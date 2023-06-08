@@ -22,4 +22,4 @@ Repositorio de la Aplicación de Recetas Medicinales utilizando Plantas
  ### Escenarios a Resolver:
  La aplicación permitirá al usuario identificar las propiedades medicinales de plantas, entregando recetas para la creación de ungüentos curativos, brebajes y purificadores de ambiente.
  - Es trabajo del equipo decidir si harán el diseño de sus interfaces para móvil o escritorio. 
- - Cada equipo debe escoger el nombrere presentativo de su app/sitio.
+ - Cada equipo debe escoger el nombre representativo de su app/sitio.
