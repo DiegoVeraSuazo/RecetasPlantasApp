@@ -29,3 +29,6 @@ Repositorio de la Aplicación de Recetas Medicinales utilizando Plantas
 
  ## Enlace a Presentación en Canvas
  https://www.canva.com/design/DAFlNPAIOpg/yquxPwa1T0xg96zC6tNQkw/edit?utm_content=DAFlNPAIOpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
+ ## Enlace Figma
+ https://www.figma.com/file/AV7LZXLMvZPxuZSAJggGIl/Pagina-principal?type=design&node-id=0%3A1&t=QOtuFZeywWCXOuuP-1
