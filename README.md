@@ -110,7 +110,6 @@ This section shows the new Mockups developed, these can be found in the Link to 
 
 ![Interface New FloraPeutica](Files/Interfaces/New/Interfaz%2013.jpg)
 
-![Interface New FloraPeutica](Files/Interfaces/New/Interfaz%2014.jpg)
 
 ## Link to Google Drive
  https://drive.google.com/drive/folders/1T_DM0F2gE8PpwXt1vSKTLhhfiGl_tqj7?usp=sharing
